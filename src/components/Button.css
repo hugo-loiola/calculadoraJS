@@ -6,3 +6,24 @@
   border-bottom: solid 5px "#888";
   outline: none;
 }
+
+.button:active {
+  background-color: #ccc;
+}
+
+.button.double {
+  grid-column: span 2;
+}
+
+.button.triple {
+  grid-column: span 3;
+}
+
+.button.operation {
+  background-color: orange;
+  color: white;
+}
+
+.button.operation:active {
+  background-color: orangered;
+}
