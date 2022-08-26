@@ -1,0 +1,8 @@
+.button {
+  font-size: 1.4rem;
+  background-color: "#fff";
+  border: none;
+  border-right: solid 5px "#888";
+  border-bottom: solid 5px "#888";
+  outline: none;
+}
